@@ -1,0 +1,15 @@
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.exe
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.pdb
+E:\New Folder (5)\داروخانه\Afo\bin\Debug\Afo.exe
+E:\New Folder (5)\داروخانه\Afo\bin\Debug\Afo.pdb
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form1.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form2.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form3.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form4.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form5.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form6.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form7.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Form8.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.Properties.Resources.resources
+E:\New Folder (5)\داروخانه\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache

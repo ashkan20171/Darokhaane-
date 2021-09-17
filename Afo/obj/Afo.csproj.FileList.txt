@@ -1,0 +1,15 @@
+bin\Debug\Afo.exe
+bin\Debug\Afo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Afo.Form1.resources
+obj\Debug\Afo.Form3.resources
+obj\Debug\Afo.Form4.resources
+obj\Debug\Afo.Form5.resources
+obj\Debug\Afo.Form6.resources
+obj\Debug\Afo.Form7.resources
+obj\Debug\Afo.Properties.Resources.resources
+obj\Debug\Afo.csproj.GenerateResource.Cache
+obj\Debug\Afo.exe
+obj\Debug\Afo.pdb
+obj\Debug\Afo.Form8.resources
+obj\Debug\Afo.Form2.resources

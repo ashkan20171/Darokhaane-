@@ -1,0 +1,110 @@
+K:\داروخانه\Afo\obj\Debug\Afo.exe
+K:\داروخانه\Afo\obj\Debug\Afo.pdb
+K:\داروخانه\Afo\bin\Debug\Afo.exe
+K:\داروخانه\Afo\bin\Debug\Afo.pdb
+K:\داروخانه\Afo\obj\Debug\ResolveAssemblyReference.cache
+K:\داروخانه\Afo\obj\Debug\Afo.Form1.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form2.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form3.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form4.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form5.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form6.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form7.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Form8.resources
+K:\داروخانه\Afo\obj\Debug\Afo.Properties.Resources.resources
+K:\داروخانه\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.exe
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.pdb
+F:\C# Projects\داروخانه\Afo\bin\Debug\Afo.exe
+F:\C# Projects\داروخانه\Afo\bin\Debug\Afo.pdb
+F:\C# Projects\داروخانه\Afo\obj\Debug\ResolveAssemblyReference.cache
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form1.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form2.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form3.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form4.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form5.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form6.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form7.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Form8.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.Properties.Resources.resources
+F:\C# Projects\داروخانه\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+E:\DaruKhane\Afo\obj\Debug\Afo.exe
+E:\DaruKhane\Afo\obj\Debug\Afo.pdb
+E:\DaruKhane\Afo\bin\Debug\Afo.exe
+E:\DaruKhane\Afo\bin\Debug\Afo.pdb
+E:\DaruKhane\Afo\obj\Debug\ResolveAssemblyReference.cache
+E:\DaruKhane\Afo\obj\Debug\Afo.Form1.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form2.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form3.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form4.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form5.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form6.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form7.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Form8.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.Properties.Resources.resources
+E:\DaruKhane\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.exe
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.pdb
+C:\Users\azad\Desktop\Afo\bin\Debug\Afo.exe
+C:\Users\azad\Desktop\Afo\bin\Debug\Afo.pdb
+C:\Users\azad\Desktop\Afo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form1.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form2.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form3.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form4.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form5.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form6.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form7.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Form8.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.Properties.Resources.resources
+C:\Users\azad\Desktop\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Saba\Desktop\Afo\obj\Debug\Afo.exe
+C:\Documents and Settings\Saba\Desktop\Afo\obj\Debug\Afo.pdb
+C:\Documents and Settings\Saba\Desktop\آقای کریمی برنامه داروخانه\Afo\obj\Debug\Afo.exe
+C:\Documents and Settings\Saba\Desktop\آقای کریمی برنامه داروخانه\Afo\obj\Debug\Afo.pdb
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.exe
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.pdb
+D:\Source\Darokhaane c#\Afo\bin\Debug\Afo.exe
+D:\Source\Darokhaane c#\Afo\bin\Debug\Afo.pdb
+D:\Source\Darokhaane c#\Afo\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form1.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form2.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form3.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form4.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form5.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form6.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form7.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Form8.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\Afo.Properties.Resources.resources
+D:\Source\Darokhaane c#\Afo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Source\Darokhaane c#\Afo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.pdb
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\bin\Debug\Afo.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\bin\Debug\Afo.pdb
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form1.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form2.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form3.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form4.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form5.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form6.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form7.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Form8.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c# _www.foxworld.ir_\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.pdb
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form1.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form2.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form3.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form4.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form5.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form6.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form7.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Form8.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\obj\Debug\Afo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\bin\Debug\Afo.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\Darokhaane c#\Afo\bin\Debug\Afo.pdb
